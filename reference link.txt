@@ -1,0 +1,38 @@
+=================PE tools===================
+
+
+IDA:
+https://hex-rays.com/
+Soft-ICE:
+https://vetusware.com/download
+OllyDBG, Resource Hacker,
+https://www.filehorse.com/
+PE tools:
+https://pe-tools.soft112.com/
+API Monitor: 
+http://www.rohitab.com/downloads
+Regmon:
+https://www.softpedia.com/dyn-postdownload.php
+
+===================Decompiler===================
+APK Decompiler:
+https://softadvice.informer.com/Apk_Decompiler_For_Windows.html
+https://sourceforge.net/projects/android-decompiler/
+https://sourceforge.net/projects/jvapkbuilder/
+https://sourceforge.net/projects/bytecode-viewer.mirror/
+https://sourceforge.net/projects/jadx.mirror/
+
+Various APK decompiler tools: 
+https://forum.xda-developers.com/t/discontinued-windows-apk-easy-tool-v1-60-2022-06-23.3333960/
+
+
+=================PDF for textbook===================
+
+PE structure:
+https://arxiv.org/
+https://www.curlybrace.com/archive/PE%20File%20Structure.pdf
+http://www.cse.tkk.fi/fi/opinnot/T-110.6220/2010_Spring_Malware_Analysis_and_Antivirus_Tchnologies
+https://gosecure.github.io/presentations/2016-04-07_atlseccon/PE_File_Security.pdf
+https://learn.microsoft.com/en-us/windows/win32/debug/pe-format
+https://www.digitalwhisper.co.il/files/Zines/0x5A/DW90-3-PE.pdf
+
